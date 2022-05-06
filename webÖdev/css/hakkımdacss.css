@@ -1,0 +1,16 @@
+body {
+    background-image: url("mardin-web-site-arka-plan-2-660x330.jpg");
+}
+.navbar {
+    border-bottom: 3px #ff620786 solid;
+} 
+.my-table{
+    background-color: rgba(0, 0,0, 0.0) !important;
+    align-content: center;
+
+
+}
+.nav-link:hover{
+    color: whitesmoke!important;
+
+}
