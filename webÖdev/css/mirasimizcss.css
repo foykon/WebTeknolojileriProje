@@ -1,0 +1,10 @@
+body {
+    background-image: url("duvar-resimleri-kopya-alani-ile-tarihi-arka-plani.jpg.jpg");
+}
+.navbar {
+    border-bottom: 3px #ffc107 solid;
+} 
+.nav-link:hover{
+    color: whitesmoke!important;
+
+}
