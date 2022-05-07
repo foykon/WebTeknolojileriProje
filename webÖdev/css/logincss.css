@@ -1,0 +1,13 @@
+body {
+    background-image: url("macOS-Big-Sur-Login-Screen-Background-Image.png");
+}
+.navbar {
+    border-bottom: 3px #dc3545 solid;
+} 
+#headerSection .row {
+    height:14vh;
+}
+.nav-link:hover{
+    color: whitesmoke!important;
+
+}
