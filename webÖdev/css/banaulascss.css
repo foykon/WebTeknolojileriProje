@@ -1,16 +1,19 @@
 body {
-    background-image: url("istockphoto-1155745087-170667a.jpg");
+    background-image: url("20120708125150-b1f1916e-me.jpg");
 }
 .navbar {
-    border-bottom: 3px #ff620786 solid;
+    border-bottom: 3px #6c757d solid;
 } 
+#headerSection .row {
+    height:14vh;
+}
 .my-table{
     background-color: rgba(0, 0,0, 0.0) !important;
+    text-align: center;
     align-content: center;
 
 
 }
 .nav-link:hover{
     color: whitesmoke!important;
-
 }
