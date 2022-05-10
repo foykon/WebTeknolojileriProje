@@ -23,3 +23,7 @@
 ## İletişim Sayfası
 -Sayfa form elemanlarını içercek şekilde oluşturulmalı.
 -html elemanları değil javascript ile kontrol yapılmalı.
+
+## Hobi Sayfası
+-api kullanrak yapılcak sayfa(ödevin bu kısmını en başta görülmemişti arkadaşlarım gösterdi)
+
