@@ -1,0 +1,45 @@
+body {
+    background-image: url("0x0-meteoroloji-acikladi-1522905390753-1.jpg");
+}
+.navbar {
+    border-bottom: 3px #a7e9f5 solid;
+} 
+.carousel {
+    
+    height:93vh;
+    /*width:100vw;*/
+    object-fit: cover;
+    }
+    
+.carousel-inner img {
+    
+    height:93vh;
+    width: 100vw;
+    object-fit: cover;
+    
+}
+.carousel-inner {
+    border-top: 3px #98eeff solid;;
+}
+.nav-link:hover{
+    color: whitesmoke!important;
+
+}
+.city{
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.temp{
+    font-size: 100px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.desc{
+    font-size: 25px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+.minmax{
+font-size: 25px;
+}
